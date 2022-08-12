@@ -2,6 +2,10 @@
 
 The aim of the Bomberman is to reproduce the game and to implement a cross-platform 3D video game with real-world tools.
 
+The game allows four players to play at the same time. But we have also integrated AIs that can dodge bombs and try to kill you if there are a missing players.
+
+You also have the possibility to change the basic keys and play with a joystick if you wish.
+
 ## Usage
 
 You'll need [make](https://www.gnu.org/software/make/) to compile the project.
